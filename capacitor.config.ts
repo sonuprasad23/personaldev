@@ -1,0 +1,31 @@
+import type { CapacitorConfig } from '@capacitor/cli';
+
+const config: CapacitorConfig = {
+  appId: 'com.sonuprasad.personadev',
+  appName: 'PersonaDev',
+  webDir: 'dist',
+  server: {
+    androidScheme: 'https'
+  },
+  plugins: {
+    LocalNotifications: {
+      smallIcon: 'ic_stat_icon',
+      iconColor: '#00d4ff',
+      sound: 'beep.wav'
+    },
+    SplashScreen: {
+      launchShowDuration: 2000,
+      launchAutoHide: true,
+      backgroundColor: '#050505',
+      androidSplashResourceName: 'splash',
+      showSpinner: false
+    }
+  },
+  android: {
+    allowMixedContent: true,
+    backgroundColor: '#050505'
+  }
+};
+
+export default config;
+

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PersonaDev</string>
+    <string name="title_activity_main">PersonaDev</string>
+    <string name="package_name">com.sonuprasad.personadev</string>
+    <string name="custom_url_scheme">com.sonuprasad.personadev</string>
+</resources>
