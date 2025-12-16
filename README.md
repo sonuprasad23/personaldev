@@ -230,5 +230,5 @@ MIT License - feel free to use this project for personal or commercial purposes.
 <div align="center">
   Made with ❤️ by Sonu Prasad
   
-  © 2024 PersonaDev. All rights reserved.
+  © 2025 PersonaDev. All rights reserved.
 </div>
