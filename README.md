@@ -163,13 +163,13 @@ personality-dev-app/
 │   ├── index.js          # Express server with Google Sheets API
 │   └── package.json
 ├── src/
-│   ├── components/       # React components
-│   ├── services/         # API and storage services
-│   ├── App.jsx           # Main app component
-│   └── index.css         # Global styles
-├── capacitor.config.ts   # Capacitor configuration
-├── credentials.json      # Google Service Account (not in git)
-├── .env                  # Environment variables (not in git)
+│   ├── components/       
+│   ├── services/         
+│   ├── App.jsx           
+│   └── index.css         
+├── capacitor.config.ts   
+├── credentials.json      
+├── .env                  
 └── package.json
 ```
 
